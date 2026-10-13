@@ -1,3 +1,5 @@
 vak: Digitale werkomgeving
 tijd: 14:19
 dag: dinsdag
+Ik ben Adonaï
+huidige tijd: 14:40
